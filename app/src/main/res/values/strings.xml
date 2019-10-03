@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="content_aquaman">Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world.</string>
+    <string name="movie_name">Aquaman</string>
+    <string name="movie_from">12 December, 2018</string>
+    <string name="description">Overview</string>
+    <string name="movie_content">After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos.</string>
+    <string name="icon_favorit">favorit</string>
+    <string name="movie_img_detail">Movie</string>
+    <string name="budget">Budget</string>
+    <string name="language">Original Language</string>
+    <string name="revenue">Revenue</string>
+    <string name="runtime">Runtime</string>
+
+</resources>
